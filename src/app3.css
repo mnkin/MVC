@@ -9,7 +9,6 @@
   transition: transform 1s;
 }
 #app3 .square.active {
-  animation: change 1s linear reverse;
   transform: translateX(100px);
   border-radius: 50%;
 }
